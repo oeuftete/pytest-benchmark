@@ -5,6 +5,8 @@ Changelog
 3.1.2-dev
 ---------
 
+* Fix misspelled unit (see
+  `#97 <https://github.com/ionelmc/pytest-benchmark/issues/97>`_).
 * Support simple ``trial`` x-axis histogram label (see
   `#95 <https://github.com/ionelmc/pytest-benchmark/issues/95>`_).
 
